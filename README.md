@@ -1,6 +1,6 @@
 # weather-check
 
-Using 2 APIs with Cocoapods to get geolocation data and all weather info for that location. With autolayout, hanndle errors.
+Using 2 APIs with Cocoapods to get geolocation data and all weather info for the searched location. With autolayout, hanndle errors.
 
 We will use 2 distinct APIs coming from 2 services on which you will have to create
 an account.
